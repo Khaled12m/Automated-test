@@ -1,4 +1,5 @@
 function mooncakeSays(message) {
+  console.log("Khaled'd feature")
   let mooncake = '(o.o)';
 
   if ( !message ) {
